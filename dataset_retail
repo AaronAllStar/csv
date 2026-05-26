@@ -1,0 +1,1208 @@
+transaccion_id,monto_colones,categoria,dia_semana,canal
+1,23118,Ropa casual,Domingo,Físico
+2,16829,Deportivo,Viernes,Físico
+3,24930,Ropa formal,Jueves,Online
+4,38620,Deportivo,Sábado,Online
+5,16041,Deportivo,Martes,Físico
+6,16041,Accesorios,Sábado,Físico
+7,39720,Accesorios,Lunes,Físico
+8,26469,Accesorios,Sábado,Físico
+9,14261,Ropa formal,Miércoles,Físico
+10,23654,Ropa formal,Domingo,Físico
+11,14304,Deportivo,Viernes,Físico
+12,14287,Accesorios,Domingo,Online
+13,20353,Ropa formal,Viernes,Online
+14,6928,Ropa casual,Sábado,Físico
+15,7612,Deportivo,Martes,Físico
+16,13614,Calzado,Martes,Físico
+17,10868,Deportivo,Miércoles,Online
+18,21102,Calzado,Lunes,Físico
+19,11453,Accesorios,Sábado,Físico
+20,8900,Calzado,Viernes,Físico
+21,37527,Accesorios,Sábado,Físico
+22,16109,Ropa casual,Miércoles,Físico
+23,18653,Calzado,Jueves,Online
+24,8845,Deportivo,Jueves,Físico
+25,13736,Accesorios,Miércoles,Físico
+26,19062,Deportivo,Viernes,Físico
+27,10143,Ropa formal,Domingo,Físico
+28,21760,Accesorios,Miércoles,Físico
+29,13355,Calzado,Viernes,Físico
+30,15586,Accesorios,Martes,Físico
+31,13348,Deportivo,Miércoles,Físico
+32,45531,Ropa casual,Viernes,Físico
+33,17912,Accesorios,Miércoles,Físico
+34,10627,Calzado,Miércoles,Físico
+35,27208,Ropa formal,Domingo,Físico
+36,9795,Ropa casual,Domingo,Físico
+37,20019,Ropa formal,Viernes,Físico
+38,6769,Accesorios,Viernes,Físico
+39,9283,Deportivo,Lunes,Físico
+40,19899,Deportivo,Miércoles,Online
+41,26088,Calzado,Jueves,Online
+42,19647,Deportivo,Miércoles,Físico
+43,17021,Ropa casual,Miércoles,Físico
+44,15513,Deportivo,Viernes,Online
+45,8611,Calzado,Miércoles,Físico
+46,12583,Accesorios,Sábado,Físico
+47,14324,Accesorios,Miércoles,Físico
+48,30594,Deportivo,Sábado,Online
+49,21414,Ropa formal,Domingo,Físico
+50,7469,Accesorios,Jueves,Online
+51,21206,Deportivo,Viernes,Online
+52,14875,Calzado,Miércoles,Físico
+53,12856,Deportivo,Sábado,Físico
+54,24486,Accesorios,Sábado,Online
+55,30197,Calzado,Domingo,Físico
+56,28728,Deportivo,Sábado,Online
+57,11854,Ropa casual,Martes,Online
+58,15450,Calzado,Lunes,Físico
+59,21282,Ropa casual,Jueves,Físico
+60,29371,Ropa formal,Domingo,Físico
+61,14192,Calzado,Domingo,Online
+62,16435,Ropa casual,Miércoles,Online
+63,10372,Accesorios,Martes,Físico
+64,9916,Accesorios,Miércoles,Físico
+65,27072,Ropa formal,Miércoles,Online
+66,35530,Calzado,Viernes,Físico
+67,17396,Calzado,Viernes,Físico
+68,29785,Calzado,Viernes,Físico
+69,21608,Ropa formal,Martes,Físico
+70,13062,Calzado,Miércoles,Físico
+71,21605,Accesorios,Lunes,Físico
+72,38910,Ropa casual,Jueves,Físico
+73,17714,Accesorios,Viernes,Físico
+74,39432,Accesorios,Viernes,Físico
+75,4866,Ropa casual,Domingo,Físico
+76,27199,Accesorios,Miércoles,Físico
+77,18836,Ropa formal,Miércoles,Físico
+78,15529,Ropa casual,Martes,Físico
+79,18880,Accesorios,Martes,Físico
+80,6676,Deportivo,Viernes,Físico
+81,16158,Accesorios,Miércoles,Físico
+82,21559,Ropa formal,Lunes,Online
+83,37758,Calzado,Jueves,Online
+84,13917,Accesorios,Miércoles,Online
+85,12037,Calzado,Domingo,Online
+86,14032,Deportivo,Miércoles,Online
+87,28501,Accesorios,Sábado,Online
+88,21256,Ropa casual,Martes,Físico
+89,13837,Calzado,Domingo,Físico
+90,23310,Deportivo,Jueves,Online
+91,18931,Ropa casual,Viernes,Físico
+92,29270,Ropa casual,Domingo,Online
+93,12695,Ropa casual,Miércoles,Físico
+94,15309,Ropa casual,Viernes,Online
+95,14823,Accesorios,Miércoles,Físico
+96,8675,Accesorios,Viernes,Físico
+97,20912,Accesorios,Jueves,Físico
+98,20548,Deportivo,Martes,Online
+99,18080,Deportivo,Jueves,Físico
+100,16038,Deportivo,Sábado,Físico
+101,8887,Ropa formal,Lunes,Online
+102,14613,Deportivo,Martes,Físico
+103,15194,Accesorios,Jueves,Online
+104,12075,Accesorios,Sábado,Físico
+105,16637,Ropa formal,Lunes,Físico
+106,22071,Ropa formal,Sábado,Físico
+107,46309,Deportivo,Miércoles,Online
+108,19679,Calzado,Miércoles,Físico
+109,20512,Ropa formal,Viernes,Online
+110,17375,Ropa casual,Martes,Online
+111,6909,Accesorios,Miércoles,Físico
+112,17796,Ropa casual,Domingo,Físico
+113,18585,Accesorios,Sábado,Físico
+114,61798,Accesorios,Martes,Físico
+115,16380,Ropa formal,Domingo,Físico
+116,20968,Ropa formal,Miércoles,Físico
+117,17723,Ropa casual,Viernes,Físico
+118,10053,Accesorios,Jueves,Físico
+119,31934,Ropa casual,Viernes,Online
+120,26264,Calzado,Domingo,Físico
+121,26783,Ropa casual,Lunes,Físico
+122,11445,Deportivo,Miércoles,Online
+123,36366,Ropa casual,Domingo,Físico
+124,8947,Deportivo,Lunes,Físico
+125,24184,Deportivo,Lunes,Físico
+126,53918,Deportivo,Sábado,Online
+127,10990,Calzado,Martes,Físico
+128,13587,Ropa casual,Sábado,Físico
+129,18955,Ropa casual,Miércoles,Físico
+130,14020,Calzado,Lunes,Físico
+131,8305,Accesorios,Domingo,Online
+132,18663,Ropa formal,Jueves,Online
+133,10603,Ropa casual,Lunes,Físico
+134,22852,Ropa formal,Domingo,Físico
+135,11388,Calzado,Jueves,Físico
+136,39143,Accesorios,Sábado,Físico
+137,12190,Accesorios,Sábado,Online
+138,15352,Accesorios,Martes,Físico
+139,27086,Calzado,Domingo,Físico
+140,9746,Deportivo,Lunes,Online
+141,20206,Deportivo,Viernes,Físico
+142,34668,Ropa formal,Sábado,Físico
+143,8073,Deportivo,Sábado,Físico
+144,19778,Deportivo,Martes,Online
+145,20536,Accesorios,Jueves,Físico
+146,26660,Accesorios,Martes,Online
+147,9716,Ropa formal,Lunes,Físico
+148,9319,Ropa casual,Domingo,Online
+149,23411,Ropa formal,Miércoles,Físico
+150,20921,Ropa formal,Miércoles,Físico
+151,20440,Calzado,Domingo,Físico
+152,21445,Calzado,Jueves,Físico
+153,12836,Ropa formal,Sábado,Online
+154,20254,Ropa formal,Jueves,Online
+155,20880,Ropa formal,Sábado,Online
+156,12617,Deportivo,Sábado,Online
+157,45839,Calzado,Miércoles,Físico
+158,22855,Ropa formal,Jueves,Físico
+159,9940,Accesorios,Martes,Online
+160,25041,Accesorios,Sábado,Online
+161,11077,Deportivo,Viernes,Físico
+162,26730,Deportivo,Viernes,Físico
+163,32186,Ropa casual,Martes,Online
+164,11964,Ropa casual,Viernes,Físico
+165,29193,Ropa casual,Lunes,Online
+166,22168,Deportivo,Sábado,Físico
+167,27202,Deportivo,Martes,Físico
+168,46555,Deportivo,Jueves,Físico
+169,15951,Accesorios,Sábado,Físico
+170,12371,Deportivo,Martes,Físico
+171,11559,Accesorios,Miércoles,Físico
+172,11993,Ropa casual,Jueves,Físico
+173,17352,Ropa casual,Miércoles,Online
+174,21388,Ropa casual,Sábado,Físico
+175,20709,Ropa formal,Jueves,Físico
+176,27271,Ropa formal,Viernes,Físico
+177,18151,Calzado,Martes,Físico
+178,37301,Calzado,Sábado,Físico
+179,15799,Calzado,Lunes,Físico
+180,70269,Ropa formal,Jueves,Físico
+181,24657,Ropa formal,Jueves,Físico
+182,11748,Calzado,Domingo,Físico
+183,10557,Calzado,Sábado,Online
+184,22954,Deportivo,Sábado,Físico
+185,16127,Calzado,Miércoles,Online
+186,25771,Deportivo,Domingo,Físico
+187,22848,Accesorios,Viernes,Online
+188,17389,Ropa formal,Miércoles,Físico
+189,11809,Calzado,Domingo,Físico
+190,8456,Ropa formal,Miércoles,Físico
+191,14425,Ropa formal,Viernes,Online
+192,27673,Ropa formal,Domingo,Físico
+193,20071,Accesorios,Domingo,Físico
+194,9673,Ropa casual,Lunes,Online
+195,19665,Calzado,Miércoles,Online
+196,21865,Ropa casual,Miércoles,Físico
+197,11592,Ropa casual,Jueves,Online
+198,19475,Ropa casual,Viernes,Físico
+199,18566,Ropa formal,Martes,Físico
+200,10183,Deportivo,Lunes,Físico
+201,21566,Ropa formal,Domingo,Físico
+202,23870,Ropa formal,Domingo,Físico
+203,30993,Ropa casual,Domingo,Físico
+204,30543,Ropa formal,Lunes,Físico
+205,9056,Ropa casual,Domingo,Físico
+206,11283,Deportivo,Domingo,Online
+207,23331,Calzado,Viernes,Físico
+208,23316,Ropa casual,Sábado,Físico
+209,23331,Deportivo,Sábado,Online
+210,123793,Calzado,Jueves,Online
+211,23991,Accesorios,Jueves,Online
+212,31818,Ropa casual,Domingo,Físico
+213,29057,Ropa casual,Viernes,Online
+214,24977,Accesorios,Domingo,Online
+215,15404,Accesorios,Jueves,Online
+216,26357,Ropa casual,Lunes,Físico
+217,12254,Accesorios,Lunes,Online
+218,16020,Ropa formal,Martes,Físico
+219,14148,Calzado,Sábado,Físico
+220,18787,Calzado,Viernes,Físico
+221,57373,Calzado,Miércoles,Físico
+222,7089,Ropa formal,Sábado,Físico
+223,25416,Accesorios,Miércoles,Online
+224,8052,Deportivo,Martes,Físico
+225,14243,Accesorios,Martes,Online
+226,31085,Ropa casual,Domingo,Físico
+227,18623,Calzado,Jueves,Físico
+228,10521,Accesorios,Martes,Físico
+229,12611,Deportivo,Martes,Físico
+230,25331,Ropa casual,Miércoles,Físico
+231,12517,Ropa formal,Jueves,Físico
+232,20095,Ropa formal,Martes,Físico
+233,18449,Deportivo,Sábado,Físico
+234,13019,Ropa casual,Martes,Físico
+235,52679,Calzado,Jueves,Físico
+236,24759,Accesorios,Domingo,Físico
+237,6551,Ropa casual,Viernes,Online
+238,19796,Ropa formal,Jueves,Físico
+239,12953,Deportivo,Miércoles,Físico
+240,27618,Deportivo,Viernes,Online
+241,12134,Accesorios,Sábado,Online
+242,17028,Deportivo,Lunes,Físico
+243,23214,Deportivo,Jueves,Físico
+244,27802,Ropa casual,Domingo,Físico
+245,9896,Calzado,Miércoles,Físico
+246,15256,Accesorios,Sábado,Online
+247,14222,Ropa casual,Viernes,Físico
+248,13008,Calzado,Sábado,Online
+249,43596,Ropa casual,Jueves,Físico
+250,22081,Ropa casual,Martes,Físico
+251,9600,Deportivo,Domingo,Físico
+252,28536,Calzado,Jueves,Online
+253,52108,Accesorios,Lunes,Online
+254,30219,Accesorios,Jueves,Online
+255,8436,Calzado,Viernes,Físico
+256,14156,Deportivo,Viernes,Físico
+257,33978,Ropa formal,Jueves,Físico
+258,12660,Ropa casual,Viernes,Físico
+259,22514,Deportivo,Martes,Físico
+260,26564,Calzado,Sábado,Online
+261,11345,Ropa casual,Jueves,Físico
+262,17505,Accesorios,Domingo,Online
+263,3567,Ropa formal,Martes,Físico
+264,10805,Accesorios,Sábado,Físico
+265,15894,Calzado,Domingo,Físico
+266,9663,Ropa casual,Domingo,Físico
+267,40791,Calzado,Domingo,Físico
+268,8821,Ropa casual,Sábado,Físico
+269,14472,Deportivo,Martes,Físico
+270,19252,Ropa formal,Domingo,Físico
+271,37073,Deportivo,Domingo,Online
+272,8796,Deportivo,Miércoles,Online
+273,32260,Calzado,Jueves,Físico
+274,18126,Ropa formal,Sábado,Físico
+275,11040,Ropa casual,Sábado,Físico
+276,22721,Ropa casual,Viernes,Físico
+277,19921,Accesorios,Sábado,Físico
+278,13358,Ropa casual,Martes,Online
+279,18674,Calzado,Sábado,Online
+280,14874,Deportivo,Miércoles,Físico
+281,19087,Deportivo,Jueves,Físico
+282,25111,Deportivo,Jueves,Físico
+283,39855,Ropa formal,Sábado,Físico
+284,9712,Ropa casual,Domingo,Físico
+285,52392,Calzado,Lunes,Físico
+286,6795,Ropa formal,Lunes,Físico
+287,16716,Accesorios,Domingo,Físico
+288,24201,Calzado,Domingo,Físico
+289,20754,Calzado,Domingo,Físico
+290,13209,Calzado,Martes,Online
+291,16251,Deportivo,Lunes,Físico
+292,14094,Calzado,Domingo,Online
+293,13431,Ropa casual,Martes,Físico
+294,27579,Calzado,Viernes,Físico
+295,21558,Deportivo,Martes,Físico
+296,12753,Calzado,Lunes,Físico
+297,28277,Accesorios,Sábado,Físico
+298,21029,Accesorios,Viernes,Online
+299,27077,Deportivo,Lunes,Online
+300,24706,Ropa casual,Martes,Físico
+301,11914,Ropa casual,Miércoles,Online
+302,13628,Ropa formal,Jueves,Físico
+303,26203,Deportivo,Lunes,Físico
+304,24470,Calzado,Domingo,Online
+305,17846,Deportivo,Martes,Físico
+306,19123,Ropa formal,Domingo,Físico
+307,34161,Deportivo,Domingo,Online
+308,13416,Deportivo,Domingo,Online
+309,23708,Ropa formal,Domingo,Físico
+310,16300,Ropa casual,Domingo,Físico
+311,16174,Calzado,Viernes,Online
+312,31238,Ropa formal,Lunes,Físico
+313,27247,Accesorios,Lunes,Online
+314,27086,Ropa casual,Jueves,Online
+315,34639,Accesorios,Martes,Físico
+316,18224,Ropa casual,Miércoles,Online
+317,25361,Calzado,Viernes,Online
+318,15442,Calzado,Martes,Online
+319,21207,Deportivo,Viernes,Físico
+320,16898,Accesorios,Lunes,Físico
+321,18930,Ropa casual,Domingo,Online
+322,24284,Calzado,Jueves,Físico
+323,11979,Ropa formal,Jueves,Físico
+324,51338,Calzado,Sábado,Físico
+325,10905,Ropa formal,Miércoles,Online
+326,9827,Ropa casual,Jueves,Físico
+327,32179,Calzado,Domingo,Online
+328,26791,Calzado,Lunes,Físico
+329,24638,Ropa casual,Miércoles,Físico
+330,24690,Calzado,Martes,Físico
+331,17924,Ropa formal,Domingo,Físico
+332,11515,Calzado,Domingo,Físico
+333,18730,Accesorios,Jueves,Físico
+334,12854,Deportivo,Miércoles,Físico
+335,29365,Ropa formal,Lunes,Físico
+336,16755,Accesorios,Sábado,Online
+337,11935,Ropa casual,Viernes,Físico
+338,15357,Ropa formal,Viernes,Físico
+339,22169,Deportivo,Lunes,Físico
+340,13604,Deportivo,Lunes,Físico
+341,11955,Ropa casual,Viernes,Físico
+342,20371,Ropa casual,Sábado,Físico
+343,20384,Ropa formal,Miércoles,Físico
+344,13996,Calzado,Viernes,Físico
+345,14250,Ropa casual,Lunes,Físico
+346,20252,Calzado,Jueves,Físico
+347,8743,Accesorios,Martes,Físico
+348,8922,Deportivo,Sábado,Físico
+349,12592,Calzado,Domingo,Físico
+350,16208,Deportivo,Sábado,Online
+351,21067,Calzado,Jueves,Físico
+352,37710,Accesorios,Jueves,Físico
+353,27690,Ropa casual,Domingo,Online
+354,16648,Accesorios,Lunes,Físico
+355,17863,Ropa casual,Viernes,Online
+356,10924,Ropa casual,Miércoles,Online
+357,17868,Deportivo,Sábado,Físico
+358,15610,Accesorios,Domingo,Online
+359,21192,Calzado,Sábado,Físico
+360,11925,Accesorios,Jueves,Online
+361,23381,Deportivo,Viernes,Físico
+362,38808,Ropa casual,Sábado,Físico
+363,17079,Deportivo,Miércoles,Físico
+364,22045,Ropa formal,Jueves,Físico
+365,25465,Ropa formal,Miércoles,Físico
+366,14756,Calzado,Viernes,Online
+367,20172,Deportivo,Sábado,Físico
+368,18148,Calzado,Martes,Físico
+369,18936,Calzado,Sábado,Online
+370,12253,Ropa formal,Viernes,Físico
+371,18256,Calzado,Sábado,Online
+372,23133,Ropa formal,Domingo,Físico
+373,37256,Ropa casual,Sábado,Físico
+374,29133,Deportivo,Lunes,Físico
+375,52923,Calzado,Sábado,Online
+376,12287,Ropa formal,Sábado,Físico
+377,27894,Accesorios,Miércoles,Físico
+378,19765,Calzado,Martes,Físico
+379,53901,Ropa casual,Miércoles,Físico
+380,12038,Ropa casual,Miércoles,Online
+381,11851,Accesorios,Jueves,Físico
+382,13364,Ropa formal,Lunes,Online
+383,6236,Calzado,Miércoles,Físico
+384,13865,Ropa formal,Domingo,Online
+385,12338,Ropa casual,Viernes,Online
+386,19442,Ropa formal,Domingo,Físico
+387,21394,Ropa casual,Viernes,Físico
+388,46078,Ropa formal,Sábado,Físico
+389,29005,Accesorios,Jueves,Online
+390,13515,Deportivo,Lunes,Online
+391,11508,Accesorios,Domingo,Físico
+392,23062,Accesorios,Lunes,Físico
+393,9320,Deportivo,Domingo,Físico
+394,45059,Deportivo,Sábado,Online
+395,32524,Calzado,Viernes,Online
+396,14263,Calzado,Martes,Físico
+397,7657,Accesorios,Jueves,Físico
+398,35488,Accesorios,Domingo,Online
+399,17030,Ropa casual,Domingo,Físico
+400,33487,Ropa casual,Sábado,Online
+401,8126,Calzado,Jueves,Online
+402,13364,Calzado,Viernes,Físico
+403,18081,Ropa casual,Viernes,Online
+404,18462,Ropa casual,Domingo,Físico
+405,14400,Ropa formal,Martes,Físico
+406,24623,Ropa formal,Martes,Físico
+407,10574,Ropa casual,Lunes,Físico
+408,16795,Ropa formal,Jueves,Físico
+409,19152,Deportivo,Jueves,Online
+410,23324,Calzado,Viernes,Online
+411,25740,Calzado,Lunes,Físico
+412,10277,Ropa casual,Sábado,Online
+413,8374,Accesorios,Jueves,Físico
+414,34161,Ropa casual,Lunes,Físico
+415,21293,Ropa formal,Lunes,Físico
+416,12404,Accesorios,Domingo,Online
+417,39166,Ropa formal,Viernes,Físico
+418,19108,Deportivo,Lunes,Online
+419,32521,Ropa formal,Martes,Físico
+420,18653,Deportivo,Martes,Físico
+421,50533,Deportivo,Miércoles,Físico
+422,43376,Ropa formal,Viernes,Online
+423,15923,Ropa formal,Domingo,Online
+424,29313,Deportivo,Sábado,Online
+425,24902,Accesorios,Miércoles,Físico
+426,35750,Deportivo,Martes,Físico
+427,11132,Calzado,Domingo,Físico
+428,25413,Deportivo,Miércoles,Físico
+429,30614,Accesorios,Viernes,Físico
+430,7485,Calzado,Domingo,Físico
+431,9980,Ropa casual,Viernes,Físico
+432,6505,Ropa casual,Lunes,Online
+433,15761,Accesorios,Jueves,Físico
+434,25817,Deportivo,Lunes,Físico
+435,38222,Ropa formal,Viernes,Online
+436,18714,Accesorios,Domingo,Físico
+437,40713,Calzado,Martes,Físico
+438,9045,Calzado,Sábado,Físico
+439,7695,Ropa casual,Martes,Online
+440,17540,Calzado,Domingo,Físico
+441,21852,Accesorios,Lunes,Físico
+442,17741,Calzado,Sábado,Online
+443,6414,Accesorios,Domingo,Físico
+444,17248,Ropa formal,Viernes,Físico
+445,9393,Ropa casual,Martes,Físico
+446,25206,Calzado,Viernes,Físico
+447,21662,Accesorios,Sábado,Online
+448,11272,Deportivo,Sábado,Físico
+449,13948,Ropa casual,Martes,Online
+450,10619,Ropa formal,Viernes,Online
+451,17477,Accesorios,Miércoles,Físico
+452,29073,Ropa formal,Viernes,Online
+453,11016,Ropa formal,Sábado,Online
+454,23203,Calzado,Viernes,Físico
+455,13834,Calzado,Domingo,Online
+456,12132,Accesorios,Lunes,Físico
+457,17094,Deportivo,Miércoles,Físico
+458,10747,Accesorios,Jueves,Online
+459,13673,Deportivo,Domingo,Online
+460,9908,Ropa formal,Lunes,Físico
+461,48164,Ropa casual,Jueves,Físico
+462,18355,Accesorios,Martes,Físico
+463,12710,Accesorios,Jueves,Físico
+464,20070,Deportivo,Domingo,Físico
+465,17049,Ropa formal,Viernes,Físico
+466,16147,Ropa formal,Domingo,Físico
+467,24516,Deportivo,Jueves,Online
+468,26338,Ropa formal,Sábado,Físico
+469,13832,Calzado,Lunes,Físico
+470,13522,Ropa casual,Lunes,Físico
+471,15717,Accesorios,Jueves,Físico
+472,5705,Ropa casual,Lunes,Físico
+473,8454,Accesorios,Sábado,Online
+474,35719,Calzado,Domingo,Online
+475,41047,Ropa formal,Lunes,Online
+476,15922,Deportivo,Jueves,Físico
+477,24059,Calzado,Miércoles,Físico
+478,21070,Ropa casual,Miércoles,Físico
+479,84073,Deportivo,Martes,Físico
+480,31564,Ropa formal,Lunes,Físico
+481,16916,Calzado,Domingo,Físico
+482,11184,Deportivo,Jueves,Físico
+483,8077,Calzado,Lunes,Online
+484,19965,Calzado,Viernes,Físico
+485,12355,Ropa formal,Sábado,Online
+486,8856,Accesorios,Lunes,Físico
+487,13052,Deportivo,Lunes,Online
+488,10501,Ropa formal,Miércoles,Físico
+489,41922,Calzado,Sábado,Físico
+490,28024,Ropa formal,Jueves,Online
+491,17962,Accesorios,Lunes,Online
+492,37797,Deportivo,Miércoles,Físico
+493,18745,Accesorios,Martes,Físico
+494,11724,Ropa casual,Sábado,Físico
+495,38621,Deportivo,Miércoles,Online
+496,23611,Accesorios,Miércoles,Online
+497,10736,Calzado,Domingo,Físico
+498,16397,Deportivo,Miércoles,Físico
+499,11640,Deportivo,Domingo,Físico
+500,9033,Ropa formal,Lunes,Físico
+501,28655,Calzado,Lunes,Físico
+502,46850,Ropa casual,Martes,Físico
+503,8962,Accesorios,Viernes,Físico
+504,23896,Ropa formal,Viernes,Físico
+505,13026,Accesorios,Viernes,Físico
+506,14135,Ropa casual,Domingo,Físico
+507,13411,Ropa casual,Sábado,Físico
+508,11708,Deportivo,Sábado,Físico
+509,18477,Ropa casual,Martes,Online
+510,11903,Accesorios,Sábado,Físico
+511,20645,Calzado,Viernes,Online
+512,17586,Calzado,Viernes,Online
+513,16003,Deportivo,Miércoles,Online
+514,11455,Accesorios,Sábado,Físico
+515,13516,Accesorios,Lunes,Online
+516,26310,Ropa casual,Lunes,Físico
+517,23166,Accesorios,Miércoles,Online
+518,11061,Ropa formal,Miércoles,Físico
+519,18952,Ropa casual,Miércoles,Online
+520,26257,Ropa formal,Lunes,Físico
+521,7827,Deportivo,Viernes,Online
+522,23663,Calzado,Miércoles,Físico
+523,12948,Deportivo,Martes,Físico
+524,23988,Calzado,Domingo,Físico
+525,12313,Deportivo,Miércoles,Físico
+526,7314,Accesorios,Domingo,Físico
+527,7992,Ropa formal,Jueves,Físico
+528,18473,Calzado,Miércoles,Online
+529,20534,Ropa casual,Lunes,Online
+530,11474,Ropa formal,Sábado,Físico
+531,24817,Ropa casual,Miércoles,Físico
+532,7858,Ropa formal,Sábado,Físico
+533,17448,Ropa formal,Jueves,Físico
+534,9843,Deportivo,Martes,Físico
+535,13018,Calzado,Sábado,Online
+536,18466,Calzado,Domingo,Físico
+537,11729,Ropa formal,Viernes,Físico
+538,14879,Accesorios,Miércoles,Físico
+539,29826,Accesorios,Jueves,Físico
+540,13515,Ropa casual,Jueves,Online
+541,27388,Ropa casual,Sábado,Físico
+542,10251,Deportivo,Martes,Físico
+543,23503,Ropa formal,Lunes,Online
+544,37078,Ropa casual,Miércoles,Online
+545,5241,Ropa casual,Jueves,Online
+546,12107,Ropa formal,Martes,Físico
+547,24066,Deportivo,Viernes,Físico
+548,16293,Ropa casual,Jueves,Online
+549,21711,Deportivo,Martes,Online
+550,13333,Calzado,Lunes,Físico
+551,18832,Deportivo,Lunes,Online
+552,16683,Accesorios,Jueves,Físico
+553,32335,Accesorios,Domingo,Físico
+554,20480,Deportivo,Jueves,Online
+555,21350,Accesorios,Sábado,Físico
+556,14677,Calzado,Miércoles,Físico
+557,14132,Ropa formal,Martes,Online
+558,14526,Accesorios,Jueves,Físico
+559,21965,Accesorios,Miércoles,Físico
+560,14611,Deportivo,Sábado,Físico
+561,20845,Calzado,Miércoles,Físico
+562,50904,Ropa formal,Jueves,Físico
+563,27877,Deportivo,Lunes,Físico
+564,15321,Deportivo,Martes,Online
+565,32880,Calzado,Martes,Online
+566,14705,Ropa formal,Lunes,Físico
+567,6509,Calzado,Domingo,Físico
+568,10894,Ropa formal,Jueves,Físico
+569,7077,Calzado,Martes,Físico
+570,15127,Deportivo,Jueves,Online
+571,18201,Deportivo,Sábado,Físico
+572,41698,Ropa casual,Jueves,Físico
+573,21236,Accesorios,Miércoles,Online
+574,16163,Calzado,Lunes,Físico
+575,27302,Ropa casual,Domingo,Online
+576,5970,Accesorios,Jueves,Online
+577,20288,Calzado,Domingo,Online
+578,26514,Ropa formal,Domingo,Físico
+579,8610,Accesorios,Sábado,Físico
+580,31948,Deportivo,Viernes,Online
+581,21359,Ropa casual,Lunes,Físico
+582,14652,Accesorios,Domingo,Online
+583,24745,Accesorios,Martes,Físico
+584,56126,Deportivo,Miércoles,Físico
+585,19750,Calzado,Martes,Físico
+586,20417,Ropa formal,Sábado,Físico
+587,14333,Deportivo,Sábado,Físico
+588,11791,Ropa formal,Martes,Físico
+589,27314,Calzado,Lunes,Online
+590,11754,Accesorios,Martes,Físico
+591,18691,Ropa formal,Jueves,Online
+592,14202,Ropa casual,Martes,Online
+593,22914,Ropa casual,Miércoles,Online
+594,21308,Deportivo,Miércoles,Online
+595,30296,Calzado,Viernes,Físico
+596,13975,Deportivo,Miércoles,Físico
+597,15757,Deportivo,Martes,Online
+598,11055,Deportivo,Miércoles,Físico
+599,14441,Ropa casual,Lunes,Físico
+600,21778,Ropa casual,Domingo,Online
+601,26331,Deportivo,Miércoles,Físico
+602,11372,Ropa casual,Jueves,Físico
+603,27856,Calzado,Lunes,Físico
+604,35519,Deportivo,Viernes,Físico
+605,22175,Ropa casual,Jueves,Online
+606,46092,Ropa formal,Martes,Físico
+607,12248,Deportivo,Domingo,Físico
+608,9679,Deportivo,Martes,Físico
+609,7410,Calzado,Domingo,Físico
+610,38102,Accesorios,Domingo,Físico
+611,25014,Accesorios,Martes,Físico
+612,17539,Calzado,Jueves,Online
+613,20743,Calzado,Jueves,Físico
+614,10273,Calzado,Domingo,Físico
+615,61260,Accesorios,Jueves,Físico
+616,19237,Calzado,Domingo,Online
+617,19048,Ropa casual,Domingo,Online
+618,25923,Deportivo,Lunes,Online
+619,22937,Deportivo,Sábado,Online
+620,20170,Ropa formal,Lunes,Físico
+621,12146,Ropa formal,Martes,Físico
+622,22828,Deportivo,Sábado,Online
+623,46213,Ropa casual,Miércoles,Online
+624,35338,Accesorios,Martes,Físico
+625,39998,Accesorios,Viernes,Físico
+626,13966,Ropa casual,Lunes,Físico
+627,10995,Accesorios,Jueves,Físico
+628,16934,Calzado,Lunes,Físico
+629,18543,Deportivo,Jueves,Online
+630,31166,Deportivo,Sábado,Online
+631,7737,Ropa casual,Viernes,Físico
+632,38746,Accesorios,Sábado,Online
+633,16664,Ropa formal,Viernes,Físico
+634,14568,Ropa formal,Lunes,Físico
+635,10872,Accesorios,Jueves,Físico
+636,7884,Ropa formal,Sábado,Físico
+637,27217,Ropa casual,Viernes,Físico
+638,18707,Ropa casual,Domingo,Físico
+639,9462,Accesorios,Martes,Físico
+640,9438,Ropa formal,Martes,Online
+641,15247,Ropa casual,Sábado,Online
+642,41544,Ropa casual,Jueves,Online
+643,15839,Calzado,Domingo,Online
+644,8505,Calzado,Sábado,Físico
+645,15949,Ropa casual,Lunes,Físico
+646,15735,Accesorios,Viernes,Online
+647,4682,Deportivo,Lunes,Físico
+648,17551,Deportivo,Martes,Físico
+649,16067,Ropa casual,Viernes,Físico
+650,25543,Ropa casual,Sábado,Físico
+651,45455,Ropa casual,Lunes,Físico
+652,31675,Accesorios,Miércoles,Físico
+653,15765,Calzado,Jueves,Físico
+654,10371,Ropa casual,Domingo,Online
+655,65296,Ropa casual,Domingo,Físico
+656,18576,Ropa formal,Jueves,Físico
+657,18160,Accesorios,Miércoles,Físico
+658,17818,Ropa casual,Martes,Físico
+659,19911,Ropa formal,Viernes,Físico
+660,16778,Deportivo,Jueves,Online
+661,13537,Ropa casual,Miércoles,Físico
+662,13719,Ropa casual,Sábado,Online
+663,17741,Ropa formal,Domingo,Físico
+664,13743,Accesorios,Miércoles,Online
+665,12627,Ropa casual,Martes,Online
+666,19019,Deportivo,Martes,Online
+667,15875,Ropa casual,Lunes,Online
+668,38254,Deportivo,Jueves,Online
+669,4791,Calzado,Lunes,Físico
+670,31125,Calzado,Domingo,Físico
+671,33626,Deportivo,Miércoles,Online
+672,6395,Accesorios,Viernes,Físico
+673,15194,Ropa casual,Viernes,Online
+674,14977,Ropa casual,Martes,Físico
+675,8922,Calzado,Viernes,Físico
+676,12223,Deportivo,Viernes,Físico
+677,10350,Ropa casual,Domingo,Físico
+678,43310,Ropa casual,Viernes,Físico
+679,28792,Accesorios,Miércoles,Físico
+680,34057,Ropa formal,Viernes,Físico
+681,25870,Calzado,Sábado,Online
+682,10255,Calzado,Viernes,Físico
+683,13874,Ropa formal,Viernes,Físico
+684,23033,Ropa casual,Lunes,Online
+685,9788,Accesorios,Miércoles,Online
+686,25758,Accesorios,Martes,Online
+687,15992,Calzado,Lunes,Físico
+688,14952,Accesorios,Jueves,Online
+689,25732,Ropa formal,Miércoles,Online
+690,22519,Ropa casual,Sábado,Físico
+691,15056,Ropa formal,Miércoles,Físico
+692,32198,Deportivo,Jueves,Físico
+693,10504,Calzado,Jueves,Físico
+694,24538,Accesorios,Jueves,Físico
+695,24259,Deportivo,Domingo,Físico
+696,15448,Accesorios,Martes,Online
+697,21228,Ropa casual,Viernes,Físico
+698,9647,Ropa casual,Miércoles,Físico
+699,28624,Ropa casual,Domingo,Online
+700,16441,Accesorios,Viernes,Físico
+701,13886,Deportivo,Viernes,Físico
+702,30470,Ropa casual,Sábado,Físico
+703,12681,Deportivo,Jueves,Físico
+704,8917,Accesorios,Martes,Online
+705,8281,Deportivo,Sábado,Físico
+706,24416,Accesorios,Lunes,Online
+707,9507,Accesorios,Domingo,Online
+708,43365,Calzado,Domingo,Físico
+709,6368,Accesorios,Martes,Físico
+710,42118,Accesorios,Viernes,Online
+711,20040,Ropa formal,Domingo,Online
+712,17182,Ropa casual,Martes,Online
+713,13733,Calzado,Domingo,Online
+714,22017,Calzado,Domingo,Físico
+715,17698,Calzado,Jueves,Online
+716,31309,Ropa formal,Lunes,Físico
+717,19094,Accesorios,Jueves,Online
+718,19441,Ropa casual,Lunes,Físico
+719,15036,Deportivo,Domingo,Online
+720,17528,Accesorios,Sábado,Físico
+721,21034,Ropa formal,Viernes,Online
+722,7669,Accesorios,Domingo,Online
+723,9190,Accesorios,Lunes,Online
+724,26151,Ropa formal,Lunes,Físico
+725,19642,Calzado,Lunes,Físico
+726,16449,Calzado,Domingo,Físico
+727,18201,Ropa casual,Martes,Físico
+728,21457,Ropa casual,Sábado,Físico
+729,13768,Calzado,Martes,Físico
+730,12220,Deportivo,Viernes,Online
+731,19889,Accesorios,Domingo,Físico
+732,11057,Deportivo,Lunes,Físico
+733,22118,Accesorios,Sábado,Físico
+734,7698,Calzado,Sábado,Físico
+735,30169,Ropa casual,Miércoles,Físico
+736,22841,Ropa casual,Viernes,Físico
+737,20497,Deportivo,Sábado,Físico
+738,29476,Ropa casual,Domingo,Online
+739,41470,Calzado,Lunes,Online
+740,29947,Deportivo,Lunes,Online
+741,7184,Accesorios,Sábado,Físico
+742,9511,Ropa casual,Martes,Online
+743,13195,Ropa formal,Viernes,Físico
+744,18271,Ropa casual,Lunes,Físico
+745,23361,Accesorios,Sábado,Físico
+746,12546,Deportivo,Lunes,Físico
+747,19799,Accesorios,Sábado,Físico
+748,12361,Ropa formal,Viernes,Físico
+749,13283,Calzado,Sábado,Físico
+750,8926,Ropa casual,Miércoles,Físico
+751,11366,Deportivo,Sábado,Físico
+752,9174,Calzado,Sábado,Físico
+753,11071,Accesorios,Domingo,Físico
+754,30541,Deportivo,Viernes,Físico
+755,11218,Calzado,Domingo,Online
+756,67251,Deportivo,Sábado,Online
+757,23079,Ropa formal,Viernes,Online
+758,19780,Ropa formal,Miércoles,Físico
+759,11741,Ropa casual,Viernes,Físico
+760,25595,Ropa casual,Lunes,Físico
+761,13523,Ropa formal,Domingo,Online
+762,19168,Deportivo,Viernes,Físico
+763,64864,Ropa formal,Miércoles,Online
+764,17188,Ropa casual,Jueves,Online
+765,32037,Ropa formal,Sábado,Físico
+766,12688,Ropa formal,Viernes,Físico
+767,17721,Deportivo,Sábado,Físico
+768,43713,Calzado,Martes,Físico
+769,13181,Ropa casual,Lunes,Online
+770,44633,Deportivo,Domingo,Físico
+771,25690,Ropa formal,Lunes,Online
+772,13613,Ropa formal,Martes,Online
+773,24741,Calzado,Martes,Online
+774,29327,Ropa casual,Domingo,Físico
+775,24610,Ropa casual,Viernes,Online
+776,8225,Accesorios,Martes,Online
+777,12537,Ropa casual,Jueves,Online
+778,15934,Calzado,Sábado,Físico
+779,17375,Accesorios,Sábado,Físico
+780,24596,Accesorios,Miércoles,Físico
+781,19709,Ropa formal,Martes,Online
+782,9250,Ropa formal,Martes,Físico
+783,21809,Ropa casual,Jueves,Online
+784,24472,Accesorios,Lunes,Físico
+785,23858,Ropa formal,Lunes,Físico
+786,30958,Calzado,Sábado,Físico
+787,27363,Ropa formal,Sábado,Físico
+788,22688,Ropa formal,Viernes,Físico
+789,17412,Accesorios,Domingo,Online
+790,7860,Accesorios,Jueves,Online
+791,22355,Deportivo,Domingo,Físico
+792,20007,Calzado,Domingo,Físico
+793,20657,Accesorios,Miércoles,Físico
+794,9525,Ropa casual,Domingo,Físico
+795,10504,Calzado,Miércoles,Físico
+796,30533,Calzado,Domingo,Online
+797,17681,Accesorios,Jueves,Online
+798,25355,Calzado,Miércoles,Físico
+799,18291,Accesorios,Lunes,Online
+800,18304,Ropa formal,Miércoles,Físico
+801,85000,Deportivo,Miércoles,Físico
+802,92000,Ropa formal,Jueves,Físico
+803,110000,Accesorios,Jueves,Físico
+804,78000,Accesorios,Miércoles,Físico
+805,95000,Ropa formal,Martes,Físico
+806,42743,Ropa casual,Jueves,Online
+807,17861,Ropa casual,Viernes,Online
+808,25788,Ropa casual,Viernes,Físico
+809,18447,Accesorios,Lunes,Online
+810,18757,Calzado,Domingo,Online
+811,20221,Accesorios,Miércoles,Físico
+812,27814,Calzado,Martes,Físico
+813,18265,Ropa formal,Lunes,Online
+814,51712,Deportivo,Miércoles,Físico
+815,14232,Calzado,Jueves,Físico
+816,21761,Ropa casual,Viernes,Físico
+817,18698,Accesorios,Sábado,Online
+818,57999,Ropa formal,Martes,Online
+819,27390,Ropa casual,Sábado,Físico
+820,45211,Ropa formal,Viernes,Físico
+821,9983,Deportivo,Domingo,Online
+822,28573,Accesorios,Domingo,Físico
+823,41514,Accesorios,Sábado,Online
+824,25575,Deportivo,Jueves,Físico
+825,46133,Accesorios,Miércoles,Físico
+826,17848,Calzado,Jueves,Físico
+827,56704,Ropa formal,Sábado,Online
+828,96697,Ropa casual,Jueves,Online
+829,19581,Deportivo,Viernes,Físico
+830,18633,Calzado,Martes,Online
+831,58223,Ropa casual,Jueves,Online
+832,62802,Ropa casual,Viernes,Online
+833,17788,Deportivo,Martes,Físico
+834,18918,Calzado,Domingo,Online
+835,20556,Ropa casual,Miércoles,Online
+836,10865,Ropa casual,Sábado,Físico
+837,14028,Calzado,Domingo,Físico
+838,13327,Accesorios,Miércoles,Físico
+839,15357,Ropa casual,Domingo,Físico
+840,23842,Ropa formal,Lunes,Físico
+841,28016,Calzado,Domingo,Físico
+842,61716,Ropa casual,Viernes,Físico
+843,13373,Deportivo,Martes,Físico
+844,43941,Ropa formal,Domingo,Físico
+845,21410,Ropa casual,Jueves,Físico
+846,23631,Ropa formal,Miércoles,Físico
+847,36494,Ropa formal,Domingo,Físico
+848,12411,Accesorios,Martes,Físico
+849,30621,Ropa formal,Viernes,Físico
+850,26900,Accesorios,Lunes,Físico
+851,32711,Calzado,Miércoles,Físico
+852,28955,Accesorios,Sábado,Físico
+853,106211,Deportivo,Martes,Físico
+854,16603,Ropa casual,Sábado,Físico
+855,17701,Calzado,Martes,Físico
+856,16749,Calzado,Martes,Online
+857,17443,Deportivo,Viernes,Online
+858,16607,Accesorios,Viernes,Físico
+859,49683,Ropa casual,Viernes,Físico
+860,57085,Accesorios,Domingo,Físico
+861,17284,Ropa formal,Jueves,Online
+862,14773,Accesorios,Martes,Online
+863,32301,Calzado,Miércoles,Físico
+864,17477,Ropa casual,Sábado,Físico
+865,35588,Accesorios,Viernes,Online
+866,27495,Ropa casual,Domingo,Online
+867,9804,Ropa casual,Viernes,Online
+868,61605,Ropa formal,Sábado,Online
+869,71505,Ropa formal,Sábado,Físico
+870,16854,Calzado,Martes,Físico
+871,19291,Deportivo,Viernes,Online
+872,28898,Ropa casual,Sábado,Físico
+873,29753,Deportivo,Jueves,Online
+874,36139,Calzado,Jueves,Online
+875,81318,Ropa casual,Viernes,Físico
+876,21891,Ropa casual,Domingo,Online
+877,15078,Deportivo,Sábado,Online
+878,10640,Accesorios,Martes,Físico
+879,15700,Ropa formal,Martes,Online
+880,23864,Accesorios,Domingo,Físico
+881,71449,Deportivo,Martes,Online
+882,17844,Ropa formal,Lunes,Físico
+883,27841,Accesorios,Viernes,Online
+884,24104,Ropa formal,Martes,Online
+885,49664,Ropa casual,Jueves,Online
+886,110875,Accesorios,Sábado,Online
+887,17703,Ropa formal,Miércoles,Online
+888,18148,Ropa formal,Domingo,Físico
+889,45547,Ropa formal,Miércoles,Físico
+890,36649,Accesorios,Martes,Online
+891,73720,Calzado,Miércoles,Online
+892,34557,Accesorios,Miércoles,Físico
+893,19622,Deportivo,Lunes,Físico
+894,34696,Accesorios,Jueves,Físico
+895,47345,Ropa formal,Domingo,Físico
+896,39827,Ropa casual,Jueves,Físico
+897,33003,Accesorios,Lunes,Físico
+898,46166,Accesorios,Lunes,Online
+899,49098,Ropa formal,Miércoles,Online
+900,55787,Ropa casual,Viernes,Online
+901,35926,Ropa casual,Sábado,Físico
+902,22021,Deportivo,Sábado,Físico
+903,26583,Accesorios,Miércoles,Físico
+904,50207,Ropa casual,Sábado,Físico
+905,14911,Ropa casual,Lunes,Online
+906,30370,Calzado,Jueves,Físico
+907,19226,Calzado,Sábado,Online
+908,24766,Ropa casual,Domingo,Físico
+909,52421,Deportivo,Miércoles,Físico
+910,27300,Ropa casual,Viernes,Físico
+911,25031,Ropa formal,Miércoles,Físico
+912,10765,Accesorios,Martes,Físico
+913,38092,Deportivo,Miércoles,Físico
+914,35857,Ropa formal,Lunes,Físico
+915,89139,Deportivo,Jueves,Online
+916,20238,Ropa formal,Jueves,Físico
+917,27764,Accesorios,Domingo,Online
+918,28272,Accesorios,Sábado,Online
+919,62722,Calzado,Lunes,Físico
+920,22990,Ropa formal,Martes,Físico
+921,28779,Calzado,Lunes,Físico
+922,35057,Ropa formal,Miércoles,Físico
+923,27227,Calzado,Lunes,Online
+924,18623,Accesorios,Lunes,Online
+925,27350,Deportivo,Domingo,Online
+926,46359,Calzado,Martes,Físico
+927,13149,Ropa formal,Miércoles,Físico
+928,26365,Ropa formal,Viernes,Físico
+929,15993,Accesorios,Domingo,Online
+930,49863,Ropa formal,Viernes,Online
+931,9760,Ropa casual,Domingo,Físico
+932,17407,Deportivo,Jueves,Físico
+933,30526,Calzado,Domingo,Online
+934,62275,Deportivo,Sábado,Online
+935,23401,Accesorios,Lunes,Físico
+936,17446,Calzado,Jueves,Online
+937,75259,Calzado,Martes,Online
+938,10211,Ropa casual,Viernes,Físico
+939,6508,Accesorios,Domingo,Online
+940,31698,Ropa formal,Lunes,Físico
+941,18012,Ropa casual,Martes,Físico
+942,13191,Ropa casual,Sábado,Online
+943,37235,Deportivo,Martes,Online
+944,28178,Deportivo,Lunes,Físico
+945,17354,Deportivo,Sábado,Físico
+946,11292,Ropa casual,Martes,Físico
+947,41088,Ropa formal,Sábado,Online
+948,35958,Calzado,Domingo,Físico
+949,22937,Deportivo,Domingo,Online
+950,73717,Ropa formal,Lunes,Físico
+951,12810,Accesorios,Lunes,Físico
+952,9747,Deportivo,Sábado,Físico
+953,16072,Calzado,Miércoles,Online
+954,23686,Accesorios,Jueves,Físico
+955,28170,Accesorios,Martes,Online
+956,21063,Calzado,Martes,Online
+957,30068,Deportivo,Miércoles,Físico
+958,11488,Ropa casual,Miércoles,Online
+959,57888,Calzado,Miércoles,Online
+960,23172,Calzado,Viernes,Físico
+961,47590,Calzado,Viernes,Físico
+962,29901,Accesorios,Sábado,Físico
+963,32018,Ropa formal,Viernes,Físico
+964,34264,Ropa casual,Domingo,Físico
+965,31845,Deportivo,Domingo,Online
+966,35798,Deportivo,Lunes,Físico
+967,54041,Ropa formal,Sábado,Físico
+968,27389,Calzado,Martes,Físico
+969,37250,Ropa casual,Jueves,Físico
+970,23067,Deportivo,Lunes,Físico
+971,57761,Deportivo,Martes,Físico
+972,16223,Calzado,Martes,Físico
+973,71723,Ropa formal,Sábado,Físico
+974,23763,Ropa casual,Miércoles,Online
+975,10317,Ropa formal,Miércoles,Físico
+976,26288,Ropa formal,Lunes,Físico
+977,16177,Ropa casual,Miércoles,Online
+978,40311,Ropa casual,Martes,Físico
+979,16456,Deportivo,Miércoles,Físico
+980,18626,Deportivo,Viernes,Físico
+981,7834,Ropa casual,Miércoles,Físico
+982,18557,Accesorios,Martes,Físico
+983,5685,Deportivo,Sábado,Físico
+984,9411,Accesorios,Lunes,Online
+985,38417,Ropa casual,Jueves,Físico
+986,39006,Deportivo,Miércoles,Físico
+987,31422,Ropa formal,Domingo,Físico
+988,13627,Ropa casual,Domingo,Físico
+989,23656,Calzado,Martes,Online
+990,24290,Accesorios,Jueves,Físico
+991,12149,Ropa casual,Jueves,Online
+992,59996,Ropa casual,Viernes,Físico
+993,41209,Deportivo,Jueves,Físico
+994,21320,Deportivo,Domingo,Físico
+995,24739,Deportivo,Sábado,Físico
+996,27585,Calzado,Martes,Físico
+997,7151,Deportivo,Martes,Físico
+998,20988,Ropa casual,Miércoles,Físico
+999,16168,Deportivo,Miércoles,Físico
+1000,13347,Ropa formal,Miércoles,Físico
+1001,20565,Deportivo,Domingo,Físico
+1002,71583,Calzado,Domingo,Físico
+1003,35757,Ropa formal,Domingo,Físico
+1004,17280,Ropa casual,Domingo,Online
+1005,34322,Ropa casual,Domingo,Online
+1006,56366,Accesorios,Domingo,Físico
+1007,42395,Ropa formal,Sábado,Físico
+1008,25230,Accesorios,Domingo,Físico
+1009,16512,Ropa formal,Jueves,Físico
+1010,37010,Ropa formal,Jueves,Online
+1011,30825,Calzado,Viernes,Físico
+1012,41652,Accesorios,Sábado,Online
+1013,35636,Calzado,Miércoles,Físico
+1014,45694,Ropa formal,Lunes,Online
+1015,17656,Ropa casual,Domingo,Físico
+1016,53661,Ropa formal,Viernes,Físico
+1017,27407,Calzado,Lunes,Físico
+1018,84555,Accesorios,Jueves,Online
+1019,16099,Accesorios,Viernes,Online
+1020,68980,Calzado,Viernes,Físico
+1021,27412,Accesorios,Martes,Físico
+1022,16468,Deportivo,Jueves,Físico
+1023,18209,Ropa casual,Jueves,Físico
+1024,20086,Ropa casual,Sábado,Físico
+1025,31398,Ropa casual,Viernes,Físico
+1026,33313,Accesorios,Domingo,Online
+1027,17254,Accesorios,Jueves,Online
+1028,23990,Ropa formal,Viernes,Físico
+1029,88024,Ropa formal,Sábado,Físico
+1030,68633,Ropa casual,Domingo,Físico
+1031,31628,Deportivo,Sábado,Físico
+1032,24904,Ropa formal,Martes,Físico
+1033,26161,Ropa formal,Domingo,Físico
+1034,35176,Accesorios,Viernes,Físico
+1035,13178,Deportivo,Jueves,Online
+1036,20860,Ropa casual,Jueves,Online
+1037,8945,Ropa formal,Viernes,Físico
+1038,30932,Deportivo,Viernes,Físico
+1039,35894,Deportivo,Viernes,Físico
+1040,18217,Ropa casual,Miércoles,Online
+1041,62592,Deportivo,Domingo,Físico
+1042,11667,Deportivo,Jueves,Online
+1043,10111,Deportivo,Domingo,Online
+1044,27852,Ropa formal,Sábado,Online
+1045,45627,Ropa casual,Jueves,Físico
+1046,66860,Deportivo,Miércoles,Online
+1047,18484,Deportivo,Viernes,Online
+1048,46500,Ropa formal,Martes,Online
+1049,23787,Ropa casual,Viernes,Online
+1050,21948,Accesorios,Viernes,Físico
+1051,41365,Ropa formal,Miércoles,Online
+1052,36004,Ropa casual,Domingo,Físico
+1053,9454,Deportivo,Jueves,Online
+1054,59037,Ropa casual,Viernes,Físico
+1055,55718,Ropa casual,Jueves,Físico
+1056,16725,Ropa casual,Lunes,Online
+1057,30868,Accesorios,Sábado,Físico
+1058,32742,Ropa casual,Domingo,Físico
+1059,28464,Accesorios,Jueves,Físico
+1060,17498,Deportivo,Martes,Online
+1061,16269,Accesorios,Sábado,Físico
+1062,23973,Deportivo,Martes,Online
+1063,49199,Deportivo,Viernes,Físico
+1064,33731,Accesorios,Sábado,Físico
+1065,19490,Ropa formal,Jueves,Online
+1066,38678,Calzado,Sábado,Online
+1067,4407,Ropa casual,Viernes,Online
+1068,48497,Calzado,Miércoles,Físico
+1069,8571,Ropa casual,Domingo,Físico
+1070,19585,Ropa casual,Martes,Físico
+1071,12434,Deportivo,Viernes,Físico
+1072,11195,Ropa casual,Miércoles,Online
+1073,48849,Ropa casual,Sábado,Físico
+1074,18387,Accesorios,Sábado,Físico
+1075,29969,Calzado,Viernes,Físico
+1076,23667,Accesorios,Jueves,Online
+1077,32410,Ropa casual,Sábado,Físico
+1078,25491,Deportivo,Jueves,Online
+1079,11273,Accesorios,Jueves,Físico
+1080,44257,Accesorios,Domingo,Online
+1081,18101,Ropa formal,Jueves,Online
+1082,9567,Ropa casual,Lunes,Físico
+1083,18829,Deportivo,Domingo,Online
+1084,59901,Accesorios,Miércoles,Físico
+1085,40544,Accesorios,Miércoles,Online
+1086,19748,Deportivo,Sábado,Físico
+1087,19741,Ropa casual,Sábado,Físico
+1088,20071,Ropa formal,Jueves,Físico
+1089,84630,Accesorios,Domingo,Físico
+1090,30612,Ropa formal,Domingo,Físico
+1091,31509,Calzado,Lunes,Online
+1092,45169,Ropa casual,Jueves,Físico
+1093,28093,Calzado,Lunes,Físico
+1094,20839,Calzado,Jueves,Físico
+1095,21638,Calzado,Martes,Online
+1096,23319,Ropa casual,Martes,Físico
+1097,23805,Ropa casual,Viernes,Físico
+1098,37668,Deportivo,Jueves,Online
+1099,25114,Ropa formal,Domingo,Físico
+1100,37782,Ropa formal,Sábado,Online
+1101,23192,Deportivo,Miércoles,Físico
+1102,25519,Deportivo,Viernes,Físico
+1103,7340,Calzado,Sábado,Físico
+1104,42184,Deportivo,Martes,Físico
+1105,29968,Accesorios,Jueves,Físico
+1106,44303,Ropa formal,Viernes,Físico
+1107,4282,Deportivo,Jueves,Físico
+1108,85223,Accesorios,Martes,Físico
+1109,22387,Accesorios,Viernes,Online
+1110,47330,Accesorios,Martes,Físico
+1111,13044,Accesorios,Lunes,Online
+1112,35160,Calzado,Martes,Online
+1113,12938,Accesorios,Domingo,Físico
+1114,16743,Calzado,Domingo,Físico
+1115,76758,Calzado,Jueves,Físico
+1116,21711,Accesorios,Miércoles,Físico
+1117,27735,Ropa formal,Martes,Físico
+1118,41029,Accesorios,Sábado,Físico
+1119,32775,Accesorios,Domingo,Físico
+1120,26642,Accesorios,Miércoles,Online
+1121,30302,Ropa formal,Lunes,Físico
+1122,102955,Ropa casual,Viernes,Físico
+1123,23516,Ropa casual,Viernes,Online
+1124,27465,Calzado,Domingo,Físico
+1125,45725,Calzado,Miércoles,Físico
+1126,47255,Ropa formal,Domingo,Físico
+1127,49623,Deportivo,Viernes,Online
+1128,35712,Ropa casual,Martes,Físico
+1129,12261,Calzado,Miércoles,Físico
+1130,64865,Ropa casual,Jueves,Físico
+1131,12237,Ropa formal,Martes,Físico
+1132,29190,Ropa formal,Martes,Online
+1133,15482,Deportivo,Martes,Físico
+1134,23424,Deportivo,Jueves,Físico
+1135,29651,Ropa formal,Lunes,Físico
+1136,29520,Calzado,Sábado,Físico
+1137,31356,Ropa casual,Domingo,Físico
+1138,64102,Accesorios,Viernes,Físico
+1139,31956,Deportivo,Domingo,Online
+1140,21026,Accesorios,Miércoles,Online
+1141,43410,Calzado,Lunes,Físico
+1142,49696,Deportivo,Miércoles,Físico
+1143,11654,Accesorios,Domingo,Online
+1144,34837,Calzado,Viernes,Físico
+1145,37075,Ropa casual,Jueves,Online
+1146,20363,Calzado,Domingo,Físico
+1147,55571,Deportivo,Martes,Físico
+1148,22247,Ropa formal,Domingo,Físico
+1149,26248,Ropa casual,Martes,Físico
+1150,21942,Accesorios,Jueves,Físico
+1151,24572,Deportivo,Domingo,Online
+1152,12610,Ropa formal,Lunes,Físico
+1153,10260,Calzado,Lunes,Físico
+1154,63367,Ropa formal,Miércoles,Físico
+1155,14645,Deportivo,Jueves,Online
+1156,13429,Deportivo,Lunes,Físico
+1157,6687,Ropa formal,Domingo,Físico
+1158,16591,Calzado,Jueves,Online
+1159,11005,Ropa formal,Viernes,Físico
+1160,65200,Deportivo,Martes,Físico
+1161,44618,Deportivo,Domingo,Físico
+1162,16109,Accesorios,Martes,Físico
+1163,94039,Accesorios,Martes,Online
+1164,43873,Ropa casual,Jueves,Físico
+1165,20032,Deportivo,Jueves,Físico
+1166,5434,Accesorios,Miércoles,Online
+1167,96237,Ropa formal,Martes,Físico
+1168,10575,Calzado,Miércoles,Online
+1169,9070,Ropa formal,Martes,Físico
+1170,44961,Calzado,Miércoles,Online
+1171,105225,Accesorios,Miércoles,Físico
+1172,55858,Ropa casual,Viernes,Físico
+1173,34144,Ropa formal,Miércoles,Físico
+1174,34782,Ropa formal,Jueves,Físico
+1175,40621,Ropa formal,Miércoles,Físico
+1176,38383,Calzado,Martes,Físico
+1177,28817,Accesorios,Miércoles,Online
+1178,25914,Ropa formal,Lunes,Físico
+1179,23446,Ropa formal,Sábado,Físico
+1180,15485,Ropa casual,Martes,Físico
+1181,20570,Ropa casual,Lunes,Físico
+1182,8815,Accesorios,Martes,Online
+1183,22948,Accesorios,Jueves,Online
+1184,13451,Deportivo,Sábado,Físico
+1185,12555,Ropa casual,Sábado,Online
+1186,27118,Deportivo,Jueves,Online
+1187,56117,Calzado,Sábado,Físico
+1188,42234,Deportivo,Jueves,Físico
+1189,9487,Ropa formal,Lunes,Físico
+1190,13443,Deportivo,Viernes,Online
+1191,42807,Accesorios,Martes,Online
+1192,13501,Calzado,Jueves,Online
+1193,21274,Ropa formal,Martes,Físico
+1194,33861,Deportivo,Lunes,Físico
+1195,13616,Calzado,Viernes,Físico
+1196,25932,Calzado,Lunes,Físico
+1197,10933,Ropa formal,Sábado,Físico
+1198,16970,Deportivo,Martes,Online
+1199,29492,Calzado,Domingo,Físico
+1200,9360,Calzado,Viernes,Físico
+1201,31707,Ropa casual,Sábado,Online
+1202,24058,Calzado,Viernes,Físico
+1203,33911,Ropa casual,Sábado,Online
+1204,27843,Deportivo,Lunes,Online
+1205,55187,Deportivo,Jueves,Físico
+1206,65000,Deportivo,Martes,Online
+1207,88000,Accesorios,Miércoles,Físico
